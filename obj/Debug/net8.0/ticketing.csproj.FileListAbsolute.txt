@@ -1,0 +1,14 @@
+/home/ms33/Documents/tareas/ticketing/obj/Debug/net8.0/ticketing.GeneratedMSBuildEditorConfig.editorconfig
+/home/ms33/Documents/tareas/ticketing/obj/Debug/net8.0/ticketing.AssemblyInfoInputs.cache
+/home/ms33/Documents/tareas/ticketing/obj/Debug/net8.0/ticketing.AssemblyInfo.cs
+/home/ms33/Documents/tareas/ticketing/obj/Debug/net8.0/ticketing.csproj.CoreCompileInputs.cache
+/home/ms33/Documents/tareas/ticketing/bin/Debug/net8.0/ticketing
+/home/ms33/Documents/tareas/ticketing/bin/Debug/net8.0/ticketing.deps.json
+/home/ms33/Documents/tareas/ticketing/bin/Debug/net8.0/ticketing.runtimeconfig.json
+/home/ms33/Documents/tareas/ticketing/bin/Debug/net8.0/ticketing.dll
+/home/ms33/Documents/tareas/ticketing/bin/Debug/net8.0/ticketing.pdb
+/home/ms33/Documents/tareas/ticketing/obj/Debug/net8.0/ticketing.dll
+/home/ms33/Documents/tareas/ticketing/obj/Debug/net8.0/refint/ticketing.dll
+/home/ms33/Documents/tareas/ticketing/obj/Debug/net8.0/ticketing.pdb
+/home/ms33/Documents/tareas/ticketing/obj/Debug/net8.0/ticketing.genruntimeconfig.cache
+/home/ms33/Documents/tareas/ticketing/obj/Debug/net8.0/ref/ticketing.dll
